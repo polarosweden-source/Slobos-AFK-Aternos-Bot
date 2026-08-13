@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VitafishSMP.aternos.me:52949",
+    "ip": "VitafishSMP.aternos.me",
     "port": 52949,
     "version": "26.2",
     "try-creative": false
